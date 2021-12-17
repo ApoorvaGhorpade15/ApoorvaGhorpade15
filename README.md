@@ -5,7 +5,7 @@
 ## 🙋🏻‍♀️ About Me
 - 🌱 I’m currently learning **ReactJs and DSA**
 
-- 👩🏻‍💻 All of my projects are available at [https://github.com/ApoorvaGhorpade15](https://github.com/ApoorvaGhorpade15)
+- 👩🏻‍💻 All of my projects are available at [My Github Profile](https://github.com/ApoorvaGhorpade15)
 
 - ⚡ Fun fact **I Love to draw**
 
