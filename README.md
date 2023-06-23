@@ -3,7 +3,6 @@
 
 <br></br>
 ## 🙋🏻‍♀️ About Me
-- 🌱 I’m currently learning **ReactJs and DSA**
 
 - 👩🏻‍💻 All of my projects are available at [My Github Profile](https://github.com/ApoorvaGhorpade15)
 
